@@ -1,0 +1,41 @@
+.player {
+    margin: 50px;
+    text-align: center;
+
+}
+
+#lyrics {
+    margin-top: 20px;
+    height: 65vh;
+    overflow-y: auto;
+    white-space: pre-wrap;
+    width: 100%;
+    background-color: transparent;
+    -ms-overflow-style: none;
+    overflow: -moz-scrollbars-none;
+    scrollbar-width: none;
+}
+
+#lyrics ::-webkit-scrollbar {
+    display: none; 
+}
+
+#lyrics>p{
+    text-align: center;
+    font-size: 2rem;
+    font-family: "appletc";
+}
+
+#lyrics {
+    color: lightgray;;
+}
+
+
+#lyrics .active {
+color: black;
+}
+
+#tb{
+    height: 10vh;
+    border-radius: 12px;
+}
