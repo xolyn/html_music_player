@@ -10,5 +10,5 @@ see a demo [here](https://f.xoy.one/test/)
   <summary>
     Disclaimer
   </summary>
-  The music featured on this website is for demonstration purposes only. It is not authorized for distribution or commercial use.
+  **The music featured on this website is for demonstration purposes only. Any kind of distribution or commercial use is strictly prohibited and violators will bear the consequences on their own.**
 </details>
